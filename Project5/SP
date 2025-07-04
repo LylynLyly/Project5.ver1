@@ -1,0 +1,4 @@
+This is the `SP` class which represents the spatial hash structure.
+
+Currently, it is not used in the `main` function because it contains bugs that break the simulation.  
+Fixing it is a bit tricky, since the simulation is highly sensitive and easily breakable.
